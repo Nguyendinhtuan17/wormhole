@@ -23,7 +23,7 @@
   "author": "Wormhole Foundation",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/bs58": "^4.0.4",
+    "@types/bs58": "^5.0.0",
     "axios": "^1.4.0",
     "jest": "^29.5.0",
     "prettier": "^2.3.2",
